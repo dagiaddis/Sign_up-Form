@@ -1,4 +1,4 @@
-# Sign_up-Form
+# Signup-Form
 Used to enter individual information of Name, email and Phone no. to the table
 
 For the HTML part
