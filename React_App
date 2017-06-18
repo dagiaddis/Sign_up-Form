@@ -1,0 +1,25 @@
+To create REACT app I used this methods
+
+On your computer go to Run-> type npm install -g create-react-app
+(This will install npm once globally)
+
+To create a folder by the name of our react app
+
+Go to run-> type create-react-app sign_form(name of the folder)
+
+Go to node.ja command prompt 
+type cd sign_form
+then inside sign_form install (react and bootstrap table)
+type npm install react-> when its done
+type npm install react-bootstrap-table
+
+Now we are ready to use the react app.
+
+what we have done as index.html goes to public folder inside sign_form folder
+inside sign_form folder add .css part and .js part.
+
+When everything is ready go to node.ja command prompt
+type cd sign_form click enter
+type npm start
+
+Here we go 
