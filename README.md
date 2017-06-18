@@ -34,7 +34,7 @@ Fourth
 on the body of the HTML 
 	
 <div class="container">
-<h1>DataTables</h1>
+Write the name of the table
 </div>
 	
 go to getbootstrap.com-> click css -> define <table> copy and paste it	
